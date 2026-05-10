@@ -10,7 +10,7 @@ The project is fully responsive and designed for practicing frontend web develop
 
 ## Navbar
 
-![Navbar](images/navbar.png)
+![Navbar](images/nevbar.png)
 
 ---
 
