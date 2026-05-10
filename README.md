@@ -1,6 +1,6 @@
 ## 🔗 Live Demo
 
-[Click Here to View Project]()
+[Click Here to View Project]( https://krishnasoni260207.github.io/Amazon-clone/)
 # Amazon Clone Website
 
 A responsive Amazon homepage clone built using HTML and CSS.  
